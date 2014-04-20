@@ -1,0 +1,1 @@
+Now I have written the first line in my new file, thereby altering it's content.
